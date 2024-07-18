@@ -1,0 +1,88 @@
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-BoldItalic.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Heavy.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Bold.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Italic.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Thin.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-HeavyItalic.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-ThinItalic.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Light.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GN Elliot Web';
+    src: url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-LightItalic.woff2') format('woff2'),
+         url('https://www.gnhearing.com/assets/fonts/GNElliot/GNElliotWeb-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
